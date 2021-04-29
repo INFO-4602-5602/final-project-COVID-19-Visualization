@@ -1,3 +1,15 @@
+# Team Members
+- Duanwei Fan (dufa3828@colorado.edu)
+- Mengchen Gong (mego6698@colorado.edu)
+- Qinglu Sun (qisu4484@colorado.edu)
+- Yilin Gong (yigo7755@colorado.edu)
+
+# Work Split
+- Duanwei: world-wide hospitalize visualization
+- Mengchen: election & vaccination visualization
+- Qinglu: death & covid-tweet visualization
+- Yilin: confirmed cases visualization
+
 # Final Project
 
 For your final project, use the skills you've developed in this class to tackle a new problem. For example, you could develop a visualization for a complex dataset, construct a physicalization, visualize an algorithmic process, or run an experiment to explore graphical perception. Not many restrictions on this one other than it should demonstrate your mastery of the processes and ideas we talked about in class. Be creative and have fun!
