@@ -11,4 +11,4 @@
 - Yilin: US confirmed cases visualization
 
 ## Running instruction
-all datasets are in [this link](https://drive.google.com/drive/folders/19XxhpPwF2vhLsM3-FZ_2Z1pGqT80Ar-K?usp=sharing), download the data folder and make sure **all** datasets and **all** jupyter notebooks are in the **same directory**
+All datasets are available in [this link](https://drive.google.com/drive/folders/19XxhpPwF2vhLsM3-FZ_2Z1pGqT80Ar-K?usp=sharing), download the data folder and make sure **all** datasets and **all** jupyter notebooks are in the **same directory**
