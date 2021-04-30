@@ -11,4 +11,4 @@
 - Yilin: US confirmed cases visualization
 
 ## Running instruction
-all datasets are in the zip folder, download the data folder and make sure all datasets are in the \b[same directory] of all jupyter notebooks
+all datasets are in the zip folder, download the data folder and make sure **all** datasets are in the **same directory** of **all** jupyter notebooks
