@@ -10,18 +10,5 @@
 - Qinglu: world trend (confirmed, death, recovered, vaccine) visualization & covid-tweet visualization
 - Yilin: US confirmed cases visualization
 
-## Project instruction
+## Running instruction
 all datasets are in the zip folder, download the data folder and make sure all datasets are in the \b[same directory] of all jupyter notebooks
-
-
-### Grade Breakdown
-Proposal: 5 points
-
-Artifact(s): 40 points
-
-Write-Up: 40 points
-
-Post-Mortem: 5 points
-
-Showcase Video: 10 points
-
